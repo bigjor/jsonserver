@@ -1,0 +1,9 @@
+{
+  "operations": [
+    { "id": 1, "name": "Operación AZ120" },
+    { "id": 2, "name": "Operación BD690" },
+    { "id": 3, "name": "Operación CQ310" },
+    { "id": 4, "name": "Operación CQ465" },
+    { "id": 5, "name": "Operación XZ100" }
+  ]
+}
